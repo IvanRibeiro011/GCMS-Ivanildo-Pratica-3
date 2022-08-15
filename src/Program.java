@@ -10,6 +10,8 @@ public class Program {
 		System.out.println("Terceiro commit!");
 		
 		System.out.println("teste");
+		
+		System.out.println("Trocada branch para Hotfix");
 
 		System.out.println();
 	}
